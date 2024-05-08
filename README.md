@@ -3,7 +3,7 @@ NBA games analysis through an interactive dashboard developed with Dash and Plot
 
 This project has been done in Python language, it contains : 
 
-- A data folder with 4 csv files that contain all data and a 'logos' folder containing all the images used in the dashboard. 
+- A data folder with 4 csv files that contain all data (games_details.csv is a compressed file, make sure to extract here after downloading it) and a 'logos' folder containing all the images used in the dashboard. 
 - A notebook (predictions_model.ipynb) containing all the explanation of the project and the creation and comparison of each machine learning models.
 - A PFE.pdf file  contains a presentation of the project.
 - A logos_image_analysis.py file which is a little script to extract the logo of each team from the original image containing all the logos at the same place.
